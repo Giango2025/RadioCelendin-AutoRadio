@@ -1,0 +1,21 @@
+# Artefactos de compilación e IDE
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.idea/
+# Archivos locales y credenciales
+.env
+.env.*
+!.env.example
+*.user
+*.suo
+*.pfx
+*.key
+*.bak
+*.mdf
+*.ldf
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

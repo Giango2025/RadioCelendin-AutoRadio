@@ -1,0 +1,14 @@
+﻿fuente,fila,motivo
+Audio,182,Codigo duplicado
+Audio,183,Titulo vacio
+Audio,184,Duracion invalida
+Audio,185,Formato invalido
+Audio,186,Ruta vacia
+Audio,187,Tipo invalido
+Agenda,962,Spot duplicado en el mismo bloque
+Agenda,963,Fecha programada invalida
+Agenda,964,Campana no existe
+Agenda,965,Audio no existe o no es anuncio
+Agenda,966,Prioridad invalida
+Agenda,967,Estado invalido
+Agenda,968,Fecha real inconsistente

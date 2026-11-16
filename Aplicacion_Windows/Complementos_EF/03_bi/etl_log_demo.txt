@@ -1,0 +1,33 @@
+PRUEBA LOCAL REAL / datos simulados / sin SQL Server.
+Fecha de ejecución: 2026-11-15T16:02:40
+{
+  "origen": "CSV simulados; verificados con pandas, NO con SQL Server",
+  "filas_audio_entrada": 186,
+  "filas_audio_aceptadas": 180,
+  "filas_audio_rechazadas": 6,
+  "filas_agenda_entrada": 967,
+  "filas_agenda_aceptadas": 960,
+  "filas_agenda_rechazadas": 7,
+  "bloques": 480,
+  "campanas": 12,
+  "emitidos": 768,
+  "omitidos": 192,
+  "cumplimiento_pct": 80.0,
+  "retraso_medio_seg": 36.98,
+  "por_causa": {
+    "Agenda: Audio no existe o no es anuncio": 1,
+    "Agenda: Campana no existe": 1,
+    "Agenda: Estado invalido": 1,
+    "Agenda: Fecha programada invalida": 1,
+    "Agenda: Fecha real inconsistente": 1,
+    "Agenda: Prioridad invalida": 1,
+    "Agenda: Spot duplicado en el mismo bloque": 1,
+    "Audio: Codigo duplicado": 1,
+    "Audio: Duracion invalida": 1,
+    "Audio: Formato invalido": 1,
+    "Audio: Ruta vacia": 1,
+    "Audio: Tipo invalido": 1,
+    "Audio: Titulo vacio": 1
+  },
+  "etl_python_seg": 0.0589
+}

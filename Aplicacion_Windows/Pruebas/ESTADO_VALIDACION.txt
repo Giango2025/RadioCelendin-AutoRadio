@@ -1,0 +1,13 @@
+Resumen de validación del paquete (2026-11-15)
+
+- Estructura de archivos, tablas referenciadas y nombres de procedimientos: revisión estática.
+- Proyecto C#/.NET 8 Windows Forms: disponible en código fuente; no compilado en el
+  entorno de creación (Linux sin .NET SDK ni Windows).
+- Paquetes NuGet: versiones publicadas confirmadas en nuget.org; restauración no ejecutada.
+- SQL Server: scripts provienen del trabajo académico; no ejecutados aquí en un servidor SQL.
+- Motor de audio LibVLC: integración programada; no probada en hardware de emisión.
+- Audios WAV de prueba: creados localmente y comprobada cabecera PCM con Python.
+- Evidencias: usar Documentacion/PRUEBAS_PARA_CAPTURAS.md y rellenar resultados reales.
+
+NO declarar el sistema probado en vivo. Si aparece un error de compilación o SQL,
+compartir el mensaje íntegro para revisar la línea precisa.

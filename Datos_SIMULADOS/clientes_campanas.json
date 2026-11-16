@@ -1,0 +1,86 @@
+[
+  {
+    "codigo": "C01",
+    "cliente": "Empresa ficticia 01",
+    "nombre": "Campaña de demostración 01",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C02",
+    "cliente": "Empresa ficticia 02",
+    "nombre": "Campaña de demostración 02",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C03",
+    "cliente": "Empresa ficticia 03",
+    "nombre": "Campaña de demostración 03",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C04",
+    "cliente": "Empresa ficticia 04",
+    "nombre": "Campaña de demostración 04",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C05",
+    "cliente": "Empresa ficticia 05",
+    "nombre": "Campaña de demostración 05",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C06",
+    "cliente": "Empresa ficticia 06",
+    "nombre": "Campaña de demostración 06",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C07",
+    "cliente": "Empresa ficticia 07",
+    "nombre": "Campaña de demostración 07",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C08",
+    "cliente": "Empresa ficticia 08",
+    "nombre": "Campaña de demostración 08",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C09",
+    "cliente": "Empresa ficticia 09",
+    "nombre": "Campaña de demostración 09",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C10",
+    "cliente": "Empresa ficticia 10",
+    "nombre": "Campaña de demostración 10",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C11",
+    "cliente": "Empresa ficticia 11",
+    "nombre": "Campaña de demostración 11",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  },
+  {
+    "codigo": "C12",
+    "cliente": "Empresa ficticia 12",
+    "nombre": "Campaña de demostración 12",
+    "inicio": "2026-01-01",
+    "fin": "2027-02-28"
+  }
+]

@@ -1,0 +1,21 @@
+RADIO CELENDIN AUTORADIO - INICIO RAPIDO (WINDOWS 10/11)
+
+1) Descomprime toda la carpeta.
+2) SSMS: ejecutar SQL/01_modelo.sql
+3) SSMS: ejecutar SQL/02_objetos.sql
+4) SSMS: ejecutar SQL/03_datos_demo.sql (solo una vez, en base de prueba)
+5) SSMS: ejecutar SQL/05_extension_aplicacion.sql
+6) Doble clic en Copiar_Audios_Demo.bat
+7) SSMS: ejecutar SQL/06_preparar_demo_audio_local.sql
+8) Abre AutoRadio.App/AutoRadio.App.csproj en Visual Studio con .NET 8.
+9) Cambia la instancia SQL en AJUSTES si no usas localhost\SQLEXPRESS.
+10) LISTAS MUSICALES: activa 'Demostracion musical'.
+11) AJUSTES: para la demo, intervalos de repeticion = 0 minutos.
+12) EN EMISION: activa AUTOMATICO y observa el bloque (tres minutos despues del paso 7).
+
+Para obtener AutoRadio.exe: doble clic en Crear_EXE_Windows.bat.
+La primera compilacion necesita Internet: NuGet descarga VLC y SqlClient.
+
+IMPORTANTE: no hay EXE ya compilado ni prueba real de Windows dentro del ZIP.
+Es fuente editable para compilar y probar; no utilizar para emitir al aire sin pruebas.
+Lee LEEME_PRIMERO.md antes de usarlo.

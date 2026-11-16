@@ -1,0 +1,187 @@
+﻿codigo,titulo,artista,genero,tipo,duracion_seg,formato,ruta
+A0001,Pista musical 001,Artista 02,Folclore,MUSICA,151,WAV,C:/AutoRadio/audios/A0001.wav
+A0002,Pista musical 002,Artista 03,Pop,MUSICA,152,FLAC,C:/AutoRadio/audios/A0002.flac
+A0003,Pista musical 003,Artista 04,Rock,MUSICA,153,OGG,C:/AutoRadio/audios/A0003.ogg
+A0004,Pista musical 004,Artista 05,Balada,MUSICA,154,MP3,C:/AutoRadio/audios/A0004.mp3
+A0005,Pista musical 005,Artista 06,Cumbia,MUSICA,155,WAV,C:/AutoRadio/audios/A0005.wav
+A0006,Pista musical 006,Artista 07,Folclore,MUSICA,156,FLAC,C:/AutoRadio/audios/A0006.flac
+A0007,Pista musical 007,Artista 08,Pop,MUSICA,157,OGG,C:/AutoRadio/audios/A0007.ogg
+A0008,Pista musical 008,Artista 09,Rock,MUSICA,158,MP3,C:/AutoRadio/audios/A0008.mp3
+A0009,Pista musical 009,Artista 10,Balada,MUSICA,159,WAV,C:/AutoRadio/audios/A0009.wav
+A0010,Pista musical 010,Artista 11,Cumbia,MUSICA,160,FLAC,C:/AutoRadio/audios/A0010.flac
+A0011,Pista musical 011,Artista 12,Folclore,MUSICA,161,OGG,C:/AutoRadio/audios/A0011.ogg
+A0012,Pista musical 012,Artista 13,Pop,MUSICA,162,MP3,C:/AutoRadio/audios/A0012.mp3
+A0013,Pista musical 013,Artista 14,Rock,MUSICA,163,WAV,C:/AutoRadio/audios/A0013.wav
+A0014,Pista musical 014,Artista 15,Balada,MUSICA,164,FLAC,C:/AutoRadio/audios/A0014.flac
+A0015,Pista musical 015,Artista 16,Cumbia,MUSICA,165,OGG,C:/AutoRadio/audios/A0015.ogg
+A0016,Pista musical 016,Artista 17,Folclore,MUSICA,166,MP3,C:/AutoRadio/audios/A0016.mp3
+A0017,Pista musical 017,Artista 18,Pop,MUSICA,167,WAV,C:/AutoRadio/audios/A0017.wav
+A0018,Pista musical 018,Artista 19,Rock,MUSICA,168,FLAC,C:/AutoRadio/audios/A0018.flac
+A0019,Pista musical 019,Artista 20,Balada,MUSICA,169,OGG,C:/AutoRadio/audios/A0019.ogg
+A0020,Pista musical 020,Artista 21,Cumbia,MUSICA,170,MP3,C:/AutoRadio/audios/A0020.mp3
+A0021,Pista musical 021,Artista 22,Folclore,MUSICA,171,WAV,C:/AutoRadio/audios/A0021.wav
+A0022,Pista musical 022,Artista 23,Pop,MUSICA,172,FLAC,C:/AutoRadio/audios/A0022.flac
+A0023,Pista musical 023,Artista 24,Rock,MUSICA,173,OGG,C:/AutoRadio/audios/A0023.ogg
+A0024,Pista musical 024,Artista 01,Balada,MUSICA,174,MP3,C:/AutoRadio/audios/A0024.mp3
+A0025,Pista musical 025,Artista 02,Cumbia,MUSICA,175,WAV,C:/AutoRadio/audios/A0025.wav
+A0026,Pista musical 026,Artista 03,Folclore,MUSICA,176,FLAC,C:/AutoRadio/audios/A0026.flac
+A0027,Pista musical 027,Artista 04,Pop,MUSICA,177,OGG,C:/AutoRadio/audios/A0027.ogg
+A0028,Pista musical 028,Artista 05,Rock,MUSICA,178,MP3,C:/AutoRadio/audios/A0028.mp3
+A0029,Pista musical 029,Artista 06,Balada,MUSICA,179,WAV,C:/AutoRadio/audios/A0029.wav
+A0030,Pista musical 030,Artista 07,Cumbia,MUSICA,180,FLAC,C:/AutoRadio/audios/A0030.flac
+A0031,Pista musical 031,Artista 08,Folclore,MUSICA,181,OGG,C:/AutoRadio/audios/A0031.ogg
+A0032,Pista musical 032,Artista 09,Pop,MUSICA,182,MP3,C:/AutoRadio/audios/A0032.mp3
+A0033,Pista musical 033,Artista 10,Rock,MUSICA,183,WAV,C:/AutoRadio/audios/A0033.wav
+A0034,Pista musical 034,Artista 11,Balada,MUSICA,184,FLAC,C:/AutoRadio/audios/A0034.flac
+A0035,Pista musical 035,Artista 12,Cumbia,MUSICA,185,OGG,C:/AutoRadio/audios/A0035.ogg
+A0036,Pista musical 036,Artista 13,Folclore,MUSICA,186,MP3,C:/AutoRadio/audios/A0036.mp3
+A0037,Pista musical 037,Artista 14,Pop,MUSICA,187,WAV,C:/AutoRadio/audios/A0037.wav
+A0038,Pista musical 038,Artista 15,Rock,MUSICA,188,FLAC,C:/AutoRadio/audios/A0038.flac
+A0039,Pista musical 039,Artista 16,Balada,MUSICA,189,OGG,C:/AutoRadio/audios/A0039.ogg
+A0040,Pista musical 040,Artista 17,Cumbia,MUSICA,190,MP3,C:/AutoRadio/audios/A0040.mp3
+A0041,Pista musical 041,Artista 18,Folclore,MUSICA,191,WAV,C:/AutoRadio/audios/A0041.wav
+A0042,Pista musical 042,Artista 19,Pop,MUSICA,192,FLAC,C:/AutoRadio/audios/A0042.flac
+A0043,Pista musical 043,Artista 20,Rock,MUSICA,193,OGG,C:/AutoRadio/audios/A0043.ogg
+A0044,Pista musical 044,Artista 21,Balada,MUSICA,194,MP3,C:/AutoRadio/audios/A0044.mp3
+A0045,Pista musical 045,Artista 22,Cumbia,MUSICA,195,WAV,C:/AutoRadio/audios/A0045.wav
+A0046,Pista musical 046,Artista 23,Folclore,MUSICA,196,FLAC,C:/AutoRadio/audios/A0046.flac
+A0047,Pista musical 047,Artista 24,Pop,MUSICA,197,OGG,C:/AutoRadio/audios/A0047.ogg
+A0048,Pista musical 048,Artista 01,Rock,MUSICA,198,MP3,C:/AutoRadio/audios/A0048.mp3
+A0049,Pista musical 049,Artista 02,Balada,MUSICA,199,WAV,C:/AutoRadio/audios/A0049.wav
+A0050,Pista musical 050,Artista 03,Cumbia,MUSICA,200,FLAC,C:/AutoRadio/audios/A0050.flac
+A0051,Pista musical 051,Artista 04,Folclore,MUSICA,201,OGG,C:/AutoRadio/audios/A0051.ogg
+A0052,Pista musical 052,Artista 05,Pop,MUSICA,202,MP3,C:/AutoRadio/audios/A0052.mp3
+A0053,Pista musical 053,Artista 06,Rock,MUSICA,203,WAV,C:/AutoRadio/audios/A0053.wav
+A0054,Pista musical 054,Artista 07,Balada,MUSICA,204,FLAC,C:/AutoRadio/audios/A0054.flac
+A0055,Pista musical 055,Artista 08,Cumbia,MUSICA,205,OGG,C:/AutoRadio/audios/A0055.ogg
+A0056,Pista musical 056,Artista 09,Folclore,MUSICA,206,MP3,C:/AutoRadio/audios/A0056.mp3
+A0057,Pista musical 057,Artista 10,Pop,MUSICA,207,WAV,C:/AutoRadio/audios/A0057.wav
+A0058,Pista musical 058,Artista 11,Rock,MUSICA,208,FLAC,C:/AutoRadio/audios/A0058.flac
+A0059,Pista musical 059,Artista 12,Balada,MUSICA,209,OGG,C:/AutoRadio/audios/A0059.ogg
+A0060,Pista musical 060,Artista 13,Cumbia,MUSICA,210,MP3,C:/AutoRadio/audios/A0060.mp3
+A0061,Pista musical 061,Artista 14,Folclore,MUSICA,211,WAV,C:/AutoRadio/audios/A0061.wav
+A0062,Pista musical 062,Artista 15,Pop,MUSICA,212,FLAC,C:/AutoRadio/audios/A0062.flac
+A0063,Pista musical 063,Artista 16,Rock,MUSICA,213,OGG,C:/AutoRadio/audios/A0063.ogg
+A0064,Pista musical 064,Artista 17,Balada,MUSICA,214,MP3,C:/AutoRadio/audios/A0064.mp3
+A0065,Pista musical 065,Artista 18,Cumbia,MUSICA,215,WAV,C:/AutoRadio/audios/A0065.wav
+A0066,Pista musical 066,Artista 19,Folclore,MUSICA,216,FLAC,C:/AutoRadio/audios/A0066.flac
+A0067,Pista musical 067,Artista 20,Pop,MUSICA,217,OGG,C:/AutoRadio/audios/A0067.ogg
+A0068,Pista musical 068,Artista 21,Rock,MUSICA,218,MP3,C:/AutoRadio/audios/A0068.mp3
+A0069,Pista musical 069,Artista 22,Balada,MUSICA,219,WAV,C:/AutoRadio/audios/A0069.wav
+A0070,Pista musical 070,Artista 23,Cumbia,MUSICA,220,FLAC,C:/AutoRadio/audios/A0070.flac
+A0071,Pista musical 071,Artista 24,Folclore,MUSICA,221,OGG,C:/AutoRadio/audios/A0071.ogg
+A0072,Pista musical 072,Artista 01,Pop,MUSICA,222,MP3,C:/AutoRadio/audios/A0072.mp3
+A0073,Pista musical 073,Artista 02,Rock,MUSICA,223,WAV,C:/AutoRadio/audios/A0073.wav
+A0074,Pista musical 074,Artista 03,Balada,MUSICA,224,FLAC,C:/AutoRadio/audios/A0074.flac
+A0075,Pista musical 075,Artista 04,Cumbia,MUSICA,225,OGG,C:/AutoRadio/audios/A0075.ogg
+A0076,Pista musical 076,Artista 05,Folclore,MUSICA,226,MP3,C:/AutoRadio/audios/A0076.mp3
+A0077,Pista musical 077,Artista 06,Pop,MUSICA,227,WAV,C:/AutoRadio/audios/A0077.wav
+A0078,Pista musical 078,Artista 07,Rock,MUSICA,228,FLAC,C:/AutoRadio/audios/A0078.flac
+A0079,Pista musical 079,Artista 08,Balada,MUSICA,229,OGG,C:/AutoRadio/audios/A0079.ogg
+A0080,Pista musical 080,Artista 09,Cumbia,MUSICA,230,MP3,C:/AutoRadio/audios/A0080.mp3
+A0081,Pista musical 081,Artista 10,Folclore,MUSICA,231,WAV,C:/AutoRadio/audios/A0081.wav
+A0082,Pista musical 082,Artista 11,Pop,MUSICA,232,FLAC,C:/AutoRadio/audios/A0082.flac
+A0083,Pista musical 083,Artista 12,Rock,MUSICA,233,OGG,C:/AutoRadio/audios/A0083.ogg
+A0084,Pista musical 084,Artista 13,Balada,MUSICA,234,MP3,C:/AutoRadio/audios/A0084.mp3
+A0085,Pista musical 085,Artista 14,Cumbia,MUSICA,235,WAV,C:/AutoRadio/audios/A0085.wav
+A0086,Pista musical 086,Artista 15,Folclore,MUSICA,236,FLAC,C:/AutoRadio/audios/A0086.flac
+A0087,Pista musical 087,Artista 16,Pop,MUSICA,237,OGG,C:/AutoRadio/audios/A0087.ogg
+A0088,Pista musical 088,Artista 17,Rock,MUSICA,238,MP3,C:/AutoRadio/audios/A0088.mp3
+A0089,Pista musical 089,Artista 18,Balada,MUSICA,239,WAV,C:/AutoRadio/audios/A0089.wav
+A0090,Pista musical 090,Artista 19,Cumbia,MUSICA,240,FLAC,C:/AutoRadio/audios/A0090.flac
+A0091,Pista musical 091,Artista 20,Folclore,MUSICA,241,OGG,C:/AutoRadio/audios/A0091.ogg
+A0092,Pista musical 092,Artista 21,Pop,MUSICA,242,MP3,C:/AutoRadio/audios/A0092.mp3
+A0093,Pista musical 093,Artista 22,Rock,MUSICA,243,WAV,C:/AutoRadio/audios/A0093.wav
+A0094,Pista musical 094,Artista 23,Balada,MUSICA,244,FLAC,C:/AutoRadio/audios/A0094.flac
+A0095,Pista musical 095,Artista 24,Cumbia,MUSICA,245,OGG,C:/AutoRadio/audios/A0095.ogg
+A0096,Pista musical 096,Artista 01,Folclore,MUSICA,246,MP3,C:/AutoRadio/audios/A0096.mp3
+A0097,Pista musical 097,Artista 02,Pop,MUSICA,247,WAV,C:/AutoRadio/audios/A0097.wav
+A0098,Pista musical 098,Artista 03,Rock,MUSICA,248,FLAC,C:/AutoRadio/audios/A0098.flac
+A0099,Pista musical 099,Artista 04,Balada,MUSICA,249,OGG,C:/AutoRadio/audios/A0099.ogg
+A0100,Pista musical 100,Artista 05,Cumbia,MUSICA,250,MP3,C:/AutoRadio/audios/A0100.mp3
+A0101,Pista musical 101,Artista 06,Folclore,MUSICA,251,WAV,C:/AutoRadio/audios/A0101.wav
+A0102,Pista musical 102,Artista 07,Pop,MUSICA,252,FLAC,C:/AutoRadio/audios/A0102.flac
+A0103,Pista musical 103,Artista 08,Rock,MUSICA,253,OGG,C:/AutoRadio/audios/A0103.ogg
+A0104,Pista musical 104,Artista 09,Balada,MUSICA,254,MP3,C:/AutoRadio/audios/A0104.mp3
+A0105,Pista musical 105,Artista 10,Cumbia,MUSICA,255,WAV,C:/AutoRadio/audios/A0105.wav
+A0106,Pista musical 106,Artista 11,Folclore,MUSICA,256,FLAC,C:/AutoRadio/audios/A0106.flac
+A0107,Pista musical 107,Artista 12,Pop,MUSICA,257,OGG,C:/AutoRadio/audios/A0107.ogg
+A0108,Pista musical 108,Artista 13,Rock,MUSICA,258,MP3,C:/AutoRadio/audios/A0108.mp3
+A0109,Pista musical 109,Artista 14,Balada,MUSICA,259,WAV,C:/AutoRadio/audios/A0109.wav
+A0110,Pista musical 110,Artista 15,Cumbia,MUSICA,150,FLAC,C:/AutoRadio/audios/A0110.flac
+A0111,Pista musical 111,Artista 16,Folclore,MUSICA,151,OGG,C:/AutoRadio/audios/A0111.ogg
+A0112,Pista musical 112,Artista 17,Pop,MUSICA,152,MP3,C:/AutoRadio/audios/A0112.mp3
+A0113,Pista musical 113,Artista 18,Rock,MUSICA,153,WAV,C:/AutoRadio/audios/A0113.wav
+A0114,Pista musical 114,Artista 19,Balada,MUSICA,154,FLAC,C:/AutoRadio/audios/A0114.flac
+A0115,Pista musical 115,Artista 20,Cumbia,MUSICA,155,OGG,C:/AutoRadio/audios/A0115.ogg
+A0116,Pista musical 116,Artista 21,Folclore,MUSICA,156,MP3,C:/AutoRadio/audios/A0116.mp3
+A0117,Pista musical 117,Artista 22,Pop,MUSICA,157,WAV,C:/AutoRadio/audios/A0117.wav
+A0118,Pista musical 118,Artista 23,Rock,MUSICA,158,FLAC,C:/AutoRadio/audios/A0118.flac
+A0119,Pista musical 119,Artista 24,Balada,MUSICA,159,OGG,C:/AutoRadio/audios/A0119.ogg
+A0120,Pista musical 120,Artista 01,Cumbia,MUSICA,160,MP3,C:/AutoRadio/audios/A0120.mp3
+A0121,Pista musical 121,Artista 02,Folclore,MUSICA,161,WAV,C:/AutoRadio/audios/A0121.wav
+A0122,Pista musical 122,Artista 03,Pop,MUSICA,162,FLAC,C:/AutoRadio/audios/A0122.flac
+A0123,Pista musical 123,Artista 04,Rock,MUSICA,163,OGG,C:/AutoRadio/audios/A0123.ogg
+A0124,Pista musical 124,Artista 05,Balada,MUSICA,164,MP3,C:/AutoRadio/audios/A0124.mp3
+A0125,Pista musical 125,Artista 06,Cumbia,MUSICA,165,WAV,C:/AutoRadio/audios/A0125.wav
+A0126,Pista musical 126,Artista 07,Folclore,MUSICA,166,FLAC,C:/AutoRadio/audios/A0126.flac
+A0127,Pista musical 127,Artista 08,Pop,MUSICA,167,OGG,C:/AutoRadio/audios/A0127.ogg
+A0128,Pista musical 128,Artista 09,Rock,MUSICA,168,MP3,C:/AutoRadio/audios/A0128.mp3
+A0129,Pista musical 129,Artista 10,Balada,MUSICA,169,WAV,C:/AutoRadio/audios/A0129.wav
+A0130,Pista musical 130,Artista 11,Cumbia,MUSICA,170,FLAC,C:/AutoRadio/audios/A0130.flac
+A0131,Pista musical 131,Artista 12,Folclore,MUSICA,171,OGG,C:/AutoRadio/audios/A0131.ogg
+A0132,Pista musical 132,Artista 13,Pop,MUSICA,172,MP3,C:/AutoRadio/audios/A0132.mp3
+A0133,Pista musical 133,Artista 14,Rock,MUSICA,173,WAV,C:/AutoRadio/audios/A0133.wav
+A0134,Pista musical 134,Artista 15,Balada,MUSICA,174,FLAC,C:/AutoRadio/audios/A0134.flac
+A0135,Pista musical 135,Artista 16,Cumbia,MUSICA,175,OGG,C:/AutoRadio/audios/A0135.ogg
+A0136,Pista musical 136,Artista 17,Folclore,MUSICA,176,MP3,C:/AutoRadio/audios/A0136.mp3
+A0137,Pista musical 137,Artista 18,Pop,MUSICA,177,WAV,C:/AutoRadio/audios/A0137.wav
+A0138,Pista musical 138,Artista 19,Rock,MUSICA,178,FLAC,C:/AutoRadio/audios/A0138.flac
+A0139,Pista musical 139,Artista 20,Balada,MUSICA,179,OGG,C:/AutoRadio/audios/A0139.ogg
+A0140,Pista musical 140,Artista 21,Cumbia,MUSICA,180,MP3,C:/AutoRadio/audios/A0140.mp3
+A0141,Spot de prueba 141,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,34,WAV,C:/AutoRadio/audios/A0141.wav
+A0142,Spot de prueba 142,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,35,FLAC,C:/AutoRadio/audios/A0142.flac
+A0143,Spot de prueba 143,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,36,OGG,C:/AutoRadio/audios/A0143.ogg
+A0144,Spot de prueba 144,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,37,MP3,C:/AutoRadio/audios/A0144.mp3
+A0145,Spot de prueba 145,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,38,WAV,C:/AutoRadio/audios/A0145.wav
+A0146,Spot de prueba 146,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,39,FLAC,C:/AutoRadio/audios/A0146.flac
+A0147,Spot de prueba 147,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,40,OGG,C:/AutoRadio/audios/A0147.ogg
+A0148,Spot de prueba 148,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,41,MP3,C:/AutoRadio/audios/A0148.mp3
+A0149,Spot de prueba 149,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,42,WAV,C:/AutoRadio/audios/A0149.wav
+A0150,Spot de prueba 150,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,43,FLAC,C:/AutoRadio/audios/A0150.flac
+A0151,Spot de prueba 151,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,44,OGG,C:/AutoRadio/audios/A0151.ogg
+A0152,Spot de prueba 152,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,45,MP3,C:/AutoRadio/audios/A0152.mp3
+A0153,Spot de prueba 153,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,46,WAV,C:/AutoRadio/audios/A0153.wav
+A0154,Spot de prueba 154,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,25,FLAC,C:/AutoRadio/audios/A0154.flac
+A0155,Spot de prueba 155,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,26,OGG,C:/AutoRadio/audios/A0155.ogg
+A0156,Spot de prueba 156,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,27,MP3,C:/AutoRadio/audios/A0156.mp3
+A0157,Spot de prueba 157,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,28,WAV,C:/AutoRadio/audios/A0157.wav
+A0158,Spot de prueba 158,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,29,FLAC,C:/AutoRadio/audios/A0158.flac
+A0159,Spot de prueba 159,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,30,OGG,C:/AutoRadio/audios/A0159.ogg
+A0160,Spot de prueba 160,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,31,MP3,C:/AutoRadio/audios/A0160.mp3
+A0161,Spot de prueba 161,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,32,WAV,C:/AutoRadio/audios/A0161.wav
+A0162,Spot de prueba 162,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,33,FLAC,C:/AutoRadio/audios/A0162.flac
+A0163,Spot de prueba 163,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,34,OGG,C:/AutoRadio/audios/A0163.ogg
+A0164,Spot de prueba 164,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,35,MP3,C:/AutoRadio/audios/A0164.mp3
+A0165,Spot de prueba 165,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,36,WAV,C:/AutoRadio/audios/A0165.wav
+A0166,Spot de prueba 166,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,37,FLAC,C:/AutoRadio/audios/A0166.flac
+A0167,Spot de prueba 167,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,38,OGG,C:/AutoRadio/audios/A0167.ogg
+A0168,Spot de prueba 168,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,39,MP3,C:/AutoRadio/audios/A0168.mp3
+A0169,Spot de prueba 169,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,40,WAV,C:/AutoRadio/audios/A0169.wav
+A0170,Spot de prueba 170,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,41,FLAC,C:/AutoRadio/audios/A0170.flac
+A0171,Spot de prueba 171,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,42,OGG,C:/AutoRadio/audios/A0171.ogg
+A0172,Spot de prueba 172,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,43,MP3,C:/AutoRadio/audios/A0172.mp3
+A0173,Spot de prueba 173,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,44,WAV,C:/AutoRadio/audios/A0173.wav
+A0174,Spot de prueba 174,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,45,FLAC,C:/AutoRadio/audios/A0174.flac
+A0175,Spot de prueba 175,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,46,OGG,C:/AutoRadio/audios/A0175.ogg
+A0176,Spot de prueba 176,Radio Celendín / anunciante ficticio,Comercial,ANUNCIO,25,MP3,C:/AutoRadio/audios/A0176.mp3
+A0177,Cuña institucional 177,Radio Celendín / anunciante ficticio,Comercial,CUNA,12,WAV,C:/AutoRadio/audios/A0177.wav
+A0178,Cuña institucional 178,Radio Celendín / anunciante ficticio,Comercial,CUNA,12,FLAC,C:/AutoRadio/audios/A0178.flac
+A0179,Cuña institucional 179,Radio Celendín / anunciante ficticio,Comercial,CUNA,12,OGG,C:/AutoRadio/audios/A0179.ogg
+A0180,Cuña institucional 180,Radio Celendín / anunciante ficticio,Comercial,CUNA,12,MP3,C:/AutoRadio/audios/A0180.mp3
+A0001,Pista musical 001,Artista 02,Folclore,MUSICA,151,WAV,C:/AutoRadio/audios/A0001.wav
+A9995,,Artista 05,Balada,MUSICA,154,MP3,C:/AutoRadio/audios/A0004.mp3
+A9997,Pista musical 008,Artista 09,Rock,MUSICA,-4,MP3,C:/AutoRadio/audios/A0008.mp3
+A9998,Pista musical 009,Artista 10,Balada,MUSICA,159,EXE,C:/AutoRadio/audios/A0009.wav
+A9999,Pista musical 010,Artista 11,Cumbia,MUSICA,160,FLAC,
+A9996,Pista musical 011,Artista 12,Folclore,VIDEO,161,OGG,C:/AutoRadio/audios/A0011.ogg

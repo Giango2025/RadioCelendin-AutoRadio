@@ -1,10 +1,10 @@
-# Artefactos de compilación e IDE
+# Build artifacts and IDE
 **/bin/
 **/obj/
 .vs/
 .vscode/
 .idea/
-# Archivos locales y credenciales
+# Local environments, temporary files, credentials
 .env
 .env.*
 !.env.example

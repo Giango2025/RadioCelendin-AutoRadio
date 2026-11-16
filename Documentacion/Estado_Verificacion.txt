@@ -1,0 +1,18 @@
+RADIO CELENDÍN AUTORADIO — REVISIÓN DOCUMENTAL DE LA EP
+
+Contenido:
+- Informe DOCX editable revisado
+- Informe PDF revisado (30 páginas)
+
+Evidencia auténtica incorporada al Anexo D:
+- ESQL-01: creación de la base y listado de tablas.
+- ESQL-02: siete objetos T-SQL registrados.
+- ESQL-03: 186 audios origen, 180 válidos, 967 agenda origen, 960 spots, 13 rechazos, 480 bloques; desglose de los 13 rechazos.
+
+PENDIENTES QUE IMPIDEN CERTIFICAR CUMPLIMIENTO DEL 100 %:
+1. ESQL-04: una captura posterior a la carga correcta con los resultados reales de las ocho pruebas, y resumen final (no se dispone de prueba de 8/8 aprobadas).
+2. ESQL-05: capturas posteriores a la carga que muestren B0001 con spots y un registro positivo de dbo.Auditoria, así como evidencia de COMMIT/ROLLBACK en las pruebas.
+3. Declaración oficial de uso de IA exigida por la plantilla UPN; debe incorporarse el formato del aula virtual.
+4. Confirmación docente de que se permite adaptar el desafío originalmente centrado en datasets abiertos MINSA a datos sintéticos del caso radial; confirmación de fecha y modalidad de equipo.
+
+El informe no inventa resultados. Las capturas antiguas con pruebas fallidas o consultas vacías se retiraron de los anexos probatorios y su estado se explicó con transparencia.
